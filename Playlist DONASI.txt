@@ -939,10 +939,11 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/165059
 #EXTINF:0 tvg-id="MetroTV" tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="News",Metro TV  
 http://37.49.230.48:8080/stadnik/6a627b52a9/165059
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:0 tvg-id="RTV.Id" tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="nasional",RTV
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd?token_zulkarnaien66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+https://mangga-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
