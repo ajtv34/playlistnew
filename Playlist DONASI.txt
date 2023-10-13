@@ -814,7 +814,7 @@ http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
-#EXTINF:0 tvg-id="IndoiarIDFbHD" tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="nasional",INDOSIAR HD
+#EXTINF:0 tvg-id="IndoiarID" tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="nasional",INDOSIAR HD
 http://op-group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 
 #EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport
