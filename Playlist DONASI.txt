@@ -807,7 +807,10 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/264750
 #EXTINF:0 tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" group-title="nasional" tvg-id="SCTV.id", SCTV 2
 http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
-#EXTINF:0 tvg-id="RCTI" group-title="nasional" tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="nasional",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
 https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="nasional",RCTI
