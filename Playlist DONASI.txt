@@ -580,7 +580,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-046/stream.mpd
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175980613953_image-header_pRow_1687943626000&quality=70" group-title="SPORT PREMIUM",DAZN ELEVEN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
+http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=186828357933_image-header_pRow_1688559877000&quality=70" group-title="SPORT PREMIUM",DAZN ELEVEN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -965,10 +965,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd?token_zulkarnaien6
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd?token_zulkarnaien66
 
-#EXTINF:-1 tvg-id="net.id" tvg-name="Indosiar" tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="nasional",NET. HD
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:0 tvg-id="Net.Id" tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="nasional",Net. FHD
+#EXTINF:0 tvg-id="Net.Id" tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="nasional",Net. HD
 http://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0I8VWXDOA-_aXwj9f0WvBx495INT_p5VPw&usqp=CAU" group-title="News",Berita Satu
