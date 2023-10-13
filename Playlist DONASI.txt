@@ -816,7 +816,8 @@ https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:0 tvg-id="IndoiarIDFbHD" tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="nasional",INDOSIAR HD
 http://103.166.27.2:800/play/a016
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/197
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/197
+http://op-group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 
 #EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
@@ -856,11 +857,7 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/1753
 #EXTINF:0 tvg-id="" tvg-name="TR: S Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4309f8d27e6038dd69d1053d4ca5769a.png" group-title="SPORT PREMIUM",S Sport 2
 http://37.49.230.48:8080/stadnik/6a627b52a9/10167
 
-#EXTINF:0 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="nasional", Indosiar 2
-http://37.49.230.48:8080/stadnik/6a627b52a9/162138
 
-#EXTINF: -1 tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="nasional", Indosiar FHD
-http://37.49.230.48:8080/stadnik/6a627b52a9/162138
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
