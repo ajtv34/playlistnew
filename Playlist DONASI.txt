@@ -671,8 +671,6 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/756
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium66/index.m3u8?
 
-#EXTINF:0 tvg-id="" tvg-name="matchru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hNojANkuAfcR1791C4lIw-kHeeKKBQWhsg&usqp=CAU" group-title="SPORT PREMIUM",MATCH
-http://37.49.230.48:8080/stadnik/6a627b52a9/75641
 
 #EXTINF:0 tvg-id="" tvg-name="Trtsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktFOFZe6WcMlbpAshs1-Ylm5dBvWcRcEiuQ&usqp=CAU" group-title="SPORT PREMIUM",TRT SPOR
 http://37.49.230.48:8080/stadnik/6a627b52a9/528
@@ -1858,15 +1856,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?toke
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl32BdeorJUAyd2Q2qbtrguigp8U0Y0vtwUQ&usqp=CAU" group-title="SPORT PREMIUM",MATCH Futbol 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://hometv.pw/deddy/smtr/lb/premium136/index.m3u8?|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Uj_Dtjze2AG5aCJZx7YCUo_j7I0CRFuztw&usqp=CAU" group-title="SPORT PREMIUM",MATCH Futbol 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://hometv.pw/deddy/smtr/lb/premium137/index.m3u8?|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthLrnswi9nRfirZBYkqH5pCd1jJbTBfvvCw&usqp=CAU" group-title="SPORT PREMIUM",MATCH Futbol 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://hometv.pw/deddy/smtr/lb/premium138/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SportKlub1Croatia.hr" tvg-logo="https://hometv.biz.id/logo/sports/sportklub1.jpg" group-title="SPORT PREMIUM",Sport Klub 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
