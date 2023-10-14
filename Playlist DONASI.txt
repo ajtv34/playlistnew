@@ -1720,12 +1720,6 @@ http://195.26.87.217/live?channelId=230&deviceMac=00:1A:79:33:E9:41
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-026/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="US: Motortrend" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/772b634266e62ebfc1363128a0a36206.png" group-title="SPORT PREMIUM",Motortrend
-http://37.49.230.48:8080/stadnik/6a627b52a9/272264
-#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US: MSG" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/043121d89a8cc59a45b250e46c5b1849.png" group-title="SPORT PREMIUM",MSG
-http://37.49.230.48:8080/stadnik/6a627b52a9/3382
-#EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-name="US: MSG 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b5bc4fe9c0293f425ae9ae8998085e8.png" group-title="SPORT PREMIUM",MSG 2
-http://37.49.230.48:8080/stadnik/6a627b52a9/25213
 
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwTaFEEnPRH0cqFCTK_NwOa5CWug3smqTMQ&usqp=CAU" ,PRIMA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
