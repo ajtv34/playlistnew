@@ -329,11 +329,6 @@ https://playlist.wapka.co/kampoeng5/playlist.m3u8
 https://playlist.wapka.co/kampoeng5/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="alriyadh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamQlYUMT05jaKHYqex1YVKzjydH0sGuwMIA&usqp=CAU" group-title="Liga Roshn Saudi",RSL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd?token_zulkarnaien66
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
 https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
@@ -1619,7 +1614,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-028/stream.mpd
-
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/starselect.png" group-title="SPORT PREMIUM",SONY STAR SELECT 1 FHD
 http://195.26.87.217/live?channelId=299&deviceMac=00:1A:79:33:E9:41
