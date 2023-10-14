@@ -3,12 +3,6 @@ url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.i
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 
-#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276777022%27&EntityType=%27Item%27&EntityId=%27158969%27&Width=1920&Height=1080" group-title="LIVE EVENT",MEWATCH 1 - ASIAN GAMES
-http://asiad1.cvmtv.site:8002/EV01?token=asiad
-
-#EXTINF:0 tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276777030%27&EntityType=%27Item%27&EntityId=%27158968%27&Width=1920&Height=1080" group-title="LIVE EVENT",MEWATCH 2 - ASIAN GAMES
-http://asiad1.cvmtv.site:8002/EV02?token=asiad
-
 #EXTINF:0 tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276777024%27&EntityType=%27Item%27&EntityId=%27158967%27&Width=1920&Height=1080" group-title="LIVE EVENT",MEWATCH 3 - ASIAN GAMES
 http://asiad1.cvmtv.site:8002/EV03?token=asiad
 
@@ -1397,7 +1391,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd?token_
 https://cdnnew.qreatifku.my.id/Bernama.mpd
 
 #EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="SPORT PREMIUM",SPOTV
-https://103.167.167.5:8111/play/a020/index.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
 
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TRUE PREMIER FOOTBALL 1
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
