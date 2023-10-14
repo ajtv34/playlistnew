@@ -1783,10 +1783,15 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/1489
 http://37.49.230.48:8080/stadnik/6a627b52a9/1492
 #EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="SPORT PREMIUM",SPORT TV 5
 http://37.49.230.48:8080/stadnik/6a627b52a9/1495
+
 #EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="SPORT PREMIUM",SPORT TV 6
 http://37.49.230.48:8080/stadnik/6a627b52a9/281487
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d58b4ece7dc97fd49ec94abc6bb326cf:60d980942265304b30e5d6038d6d8793
 #EXTINF:0 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="SPORT PREMIUM",SPORT TV NBA
-http://37.49.230.48:8080/stadnik/6a627b52a9/2051
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
+
 #EXTINF:0 tvg-id="sportingtv.pt" tvg-name="Sporting TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="SPORT PREMIUM",Sporting TV
 http://37.49.230.48:8080/stadnik/6a627b52a9/1519
 
