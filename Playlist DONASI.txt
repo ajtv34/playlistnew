@@ -704,22 +704,6 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/16633
 #EXTINF:0 tvg-id="" tvg-name="pptv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqDqoFuHff6L9D2c7s6yzDXvsbad9seFQag&usqp=CAU" group-title="SPORT PREMIUM",PPTV 36
 http://37.49.230.48:8080/stadnik/6a627b52a9/281639
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Polsat-Sport-Extra-HD.jpg" group-title="SPORT PREMIUM",polsat Sport Extra
-http://37.49.230.48:8080/stadnik/6a627b52a9/353
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Polsat_sport_fight-1.png" group-title="SPORT PREMIUM",polsat Sport FIGHT
-http://37.49.230.48:8080/stadnik/6a627b52a9/26592
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_1_Poziome_2021.svg/2560px-Polsat_Sport_Premium_1_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 1
-http://37.49.230.48:8080/stadnik/6a627b52a9/23199
-#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ48X-ntU-M8tLOArBekuCch3eq_hcX64CTg&usqp=CAU" group-title="SPORT PREMIUM",polsat Sport Premium 2
-http://37.49.230.48:8080/stadnik/6a627b52a9/29607
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Premium_3_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_3_PPV_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 3
-http://37.49.230.48:8080/stadnik/6a627b52a9/147031
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Polsat_Sport_Premium_4_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_4_PPV_Poziome_2021.svg.png" group-title="SPORT PREMIUM",polsat Sport Premium 4
-http://37.49.230.48:8080/stadnik/6a627b52a9/147034
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polsat_Sport_Premium_5_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_5_PPV_Poziome_2021.svg.png?20210819215508" group-title="SPORT PREMIUM",polsat Sport Premium 5
-http://37.49.230.48:8080/stadnik/6a627b52a9/147035
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Polsat_Sport_Premium_6_PPV_Poziome_2021.svg/1024px-Polsat_Sport_Premium_6_PPV_Poziome_2021.svg.png?20210819215535" group-title="SPORT PREMIUM",polsat Sport Premium 6
-http://37.49.230.48:8080/stadnik/6a627b52a9/147036
 
 #EXTINF:0 tvg-id="mnsportid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0syEHE7DbzWTfL2g1UvYAnECr7BNrDy57Q&usqp=CAU" group-title="BRI LIGA 1",SPORTS STAR 3
 http://37.49.230.48:8080/stadnik/6a627b52a9/298549
