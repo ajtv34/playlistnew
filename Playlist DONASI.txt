@@ -1651,7 +1651,6 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/1964
 http://37.49.230.48:8080/stadnik/6a627b52a9/95709
 
 
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 1
 http://37.49.230.48:8080/stadnik/6a627b52a9/270
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 2
@@ -1661,20 +1660,6 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/271
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 4
 http://37.49.230.48:8080/stadnik/6a627b52a9/298471
 
-
-#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="SPORT PREMIUM",SPORT TV 1
-http://37.49.230.48:8080/stadnik/6a627b52a9/1483
-#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="SPORT PREMIUM",SPORT TV 2
-http://37.49.230.48:8080/stadnik/6a627b52a9/1486
-#EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="SPORT PREMIUM",SPORT TV 3
-http://37.49.230.48:8080/stadnik/6a627b52a9/1489
-#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="SPORT PREMIUM",SPORT TV 4
-http://37.49.230.48:8080/stadnik/6a627b52a9/1492
-#EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="SPORT PREMIUM",SPORT TV 5
-http://37.49.230.48:8080/stadnik/6a627b52a9/1495
-
-#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="SPORT PREMIUM",SPORT TV 6
-http://37.49.230.48:8080/stadnik/6a627b52a9/281487
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d58b4ece7dc97fd49ec94abc6bb326cf:60d980942265304b30e5d6038d6d8793
