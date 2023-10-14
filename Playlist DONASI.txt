@@ -1413,10 +1413,6 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="SPOTV2.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="SPORT PREMIUM",SPOTV 2
-https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
 
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROWXHKHBvEWYvwDQPQmQhY4_UvfsgFUhoGw&usqp=CAU" group-title="SPORT PREMIUM",SPORTSTAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1691,17 +1687,12 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/3631
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="SPORT PREMIUM",STAR SPORTS 3
 http://37.49.230.48:8080/stadnik/6a627b52a9/62584
 
-
-
-#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png", SPOTV  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd?token_zulkarnaien66?token_zulkarnaien66
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
 
 #EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png", SPOTV2  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66?token_zulkarnaien66
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:0 tvg-logo="https://s.id/1CXVM" group-title="SPORT PREMIUM",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
