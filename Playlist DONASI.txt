@@ -3,7 +3,6 @@ url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.i
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 
-
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276777022%27&EntityType=%27Item%27&EntityId=%27158969%27&Width=1920&Height=1080" group-title="LIVE EVENT",MEWATCH 1 - ASIAN GAMES
 http://asiad1.cvmtv.site:8002/EV01?token=asiad
 
@@ -865,7 +864,7 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/162504
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png",GTV
+#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="nasional",GTV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
