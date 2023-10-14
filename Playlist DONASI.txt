@@ -178,25 +178,6 @@ https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 5 
 https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://i.ibb.co/MR7xhyW/Formula-1.jpg" group-title="SPORT PREMIUM",Sky Sports F1
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/15
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://i.ibb.co/V9ZtgmT/Main-event.jpg" group-title="SPORT PREMIUM",Sky Sports Main Event
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/16
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://i.ibb.co/c6YFRcQ/Premier-league.jpg" group-title="SPORT PREMIUM",Sky Sports Premier League
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/17
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://i.ibb.co/HxZFzSy/Football.jpg" group-title="SPORT PREMIUM",Sky Sports Football
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/18
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ACTION" tvg-logo="https://i.ibb.co/gFxVKH1/Action.jpg" group-title="SPORT PREMIUM",Sky Sports Action
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/19
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="https://i.ibb.co/5R8V0BL/Arena.jpg" group-title="SPORT PREMIUM",Sky Sports Arena
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/20
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://i.ibb.co/CpcgXh2/Cricket.jpg" group-title="SPORT PREMIUM",Sky Sports Cricket
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/21
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="https://i.ibb.co/GWQWk50/Golf.jpg" group-title="SPORT PREMIUM",Sky Sports Golf
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/22
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NEWS" tvg-logo="https://i.ibb.co/djrR3QW/News.jpg" group-title="SPORT PREMIUM",Sky Sports News
-http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/23
-
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://hometv.pw/logo/sports/rmc_sports.jpg" group-title="SPORT PREMIUM",RMC Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://hometv.pw/deddy/smtr/lb/premium119/index.m3u8|referer=https://widevine.licenses4.me/
@@ -774,12 +755,6 @@ https://raw.githubusercontent.com/thefirefox12537/streams/master/fmx/transpitu.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd?token_zulkarnaien66
-
-#EXTINF:0 tvg-id="ssport.tr" tvg-name="TR: S Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/543cf115a49b83263997399b2cea3ecd.png" group-title="SPORT PREMIUM",S Sport
-http://37.49.230.48:8080/stadnik/6a627b52a9/1753
-#EXTINF:0 tvg-id="" tvg-name="TR: S Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4309f8d27e6038dd69d1053d4ca5769a.png" group-title="SPORT PREMIUM",S Sport 2
-http://37.49.230.48:8080/stadnik/6a627b52a9/10167
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1685,8 +1660,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-028/stream.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="Sharjah Sports TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3b1c866c0f331e63458d52f79b1f1c6.jpg" group-title="SPORT PREMIUM",Sharjah Sports TV
-http://37.49.230.48:8080/stadnik/6a627b52a9/2938
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/starselect.png" group-title="SPORT PREMIUM",SONY STAR SELECT 1 FHD
 http://195.26.87.217/live?channelId=299&deviceMac=00:1A:79:33:E9:41
@@ -1743,8 +1716,6 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/281487
 #EXTINF:0 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="SPORT PREMIUM",SPORT TV NBA
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
 
-#EXTINF:0 tvg-id="sportingtv.pt" tvg-name="Sporting TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="SPORT PREMIUM",Sporting TV
-http://37.49.230.48:8080/stadnik/6a627b52a9/1519
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="SPORT PREMIUM",TSN 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177344&extension=ts&play_token=9WV10w3wHZ 
