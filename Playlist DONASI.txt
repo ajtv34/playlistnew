@@ -529,12 +529,7 @@ https://hometv.pw/deddy/smtr/lb/premium597/index.m3u8|referer=https://widevine.l
 #EXTINF:-1 tvg-id="DiemaSport1.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png"  group-title="SPORT PREMIUM",Diema Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14249_&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DiemaSport2-logo.svg/640px-DiemaSport2-logo.svg.png"  group-title="SPORT PREMIUM",Diema Sport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14250_&extension=ts
-#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png"  group-title="SPORT PREMIUM",Diema Sport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=154916&extension=ts&play_token=PCrj0cpNiM
+
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="championstv3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9r-scyW7m8n9nODmjP3D8bYZTKTy1hckyFg&usqp=CAU",VIDIO
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
