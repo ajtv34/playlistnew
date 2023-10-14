@@ -1789,6 +1789,7 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/281487
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d58b4ece7dc97fd49ec94abc6bb326cf:60d980942265304b30e5d6038d6d8793
+
 #EXTINF:0 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="SPORT PREMIUM",SPORT TV NBA
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
 
