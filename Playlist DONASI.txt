@@ -123,7 +123,7 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 #EXTINF:-1 tvg-chno="32" tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thairath32.jpg" group-title="SPORT PREMIUM",Thairath TV
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/HLS/V0013.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/HLS/V0013.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=aneplay&tfa=f0-fc&tttl=1683977278
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTzD0vFRWjWlKUAH7jRQmZ8r0hZSrhfUBTg&usqp=CAU" group-title="MLS | LIVE ONLY",LIVE 1
 http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/64
@@ -483,16 +483,7 @@ https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 http://1.yurend.xyz/dash-wv/linear//5057/default_ott.mpd?token_zulkarnaien66
 
-#EXTINF:-1 tvg-id="ViaplaySports1.uk" group-title="SPORT PREMIUM" tvg-logo="https://i.ibb.co/vdG79f4/Viaplay-uk.png",Viaplay Sports 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://hometv.pw/deddy/smtr/lb/premium451/index.m3u8|referer=https://widevine.licenses4.me/ 
-#EXTINF:-1 tvg-id="ViaplaySports2.uk" group-title="SPORT PREMIUM" tvg-logo="https://i.ibb.co/vdG79f4/Viaplay-uk.png",Viaplay Sports 2 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://hometv.pw/deddy/smtr/lb/premium550/index.m3u8|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="ViaplayXtra.uk" group-title="SPORT PREMIUM" tvg-logo="https://i.ibb.co/vdG79f4/Viaplay-uk.png",Viaplay Xtra UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://hometv.pw/deddy/smtr/lb/premium597/index.m3u8|referer=https://widevine.licenses4.me/
-
+ 
 #EXTINF:-1 tvg-id="DiemaSport1.bg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png"  group-title="SPORT PREMIUM",Diema Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14249_&extension=ts
@@ -612,9 +603,6 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/756
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium66/index.m3u8?
 
-
-#EXTINF:0 tvg-id="" tvg-name="Trtsp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktFOFZe6WcMlbpAshs1-Ylm5dBvWcRcEiuQ&usqp=CAU" group-title="SPORT PREMIUM",TRT SPOR
-http://37.49.230.48:8080/stadnik/6a627b52a9/528
 
 #EXTINF:0 tvg-id="" tvg-name="mutv" tvg-logo="https://vectrostudio.com/wp-content/uploads/2020/01/Manchester-United-Logo_vectrostudio.jpg" group-title="SPORT PREMIUM",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -1639,33 +1627,12 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/1964
 http://37.49.230.48:8080/stadnik/6a627b52a9/95709
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 1
-http://37.49.230.48:8080/stadnik/6a627b52a9/270
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 2
-http://37.49.230.48:8080/stadnik/6a627b52a9/273
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 3
-http://37.49.230.48:8080/stadnik/6a627b52a9/271
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT PREMIUM",TNT Sport 4
-http://37.49.230.48:8080/stadnik/6a627b52a9/298471
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d58b4ece7dc97fd49ec94abc6bb326cf:60d980942265304b30e5d6038d6d8793
 
 #EXTINF:0 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="SPORT PREMIUM",SPORT TV NBA
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
 
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="SPORT PREMIUM",TSN 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177344&extension=ts&play_token=9WV10w3wHZ 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="SPORT PREMIUM",TSN 2
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177345&extension=ts&play_token=H0P1T4ifR8 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="SPORT PREMIUM",TSN 3
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177346&extension=ts&play_token=I4WnM2pics 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="SPORT PREMIUM",TSN 4
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177347&extension=ts&play_token=vBeq3z0dWP 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="SPORT PREMIUM",TSN 5
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=177348&extension=ts&play_token=CN2xBNmpdp 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORT PREMIUM",SONY SPORTS 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
@@ -1712,8 +1679,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:0 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/B6zTJmWH/20220927-065210.png" group-title="SPORT PREMIUM",TVRI Sport
 http://37.49.230.48:8080/stadnik/6a627b52a9/166686
 
-#EXTINF:0 tvg-id="TyCSports.id" tvg-name="TyC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3ViJii0uSIV3IsWA5wbc6zTzc_6p8ZOrMw&usqp=CAU" group-title="SPORT PREMIUM",TyC Sports
-http://37.49.230.48:8080/stadnik/6a627b52a9/8749
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jdXf5mph/20221009-063955.png" group-title="SPORT PREMIUM",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
