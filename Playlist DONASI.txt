@@ -161,26 +161,6 @@ https://ddh1.cdnbos.lol/lb/premium414/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://ddh1.cdnbos.lol/lb/premium415/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 1 
-https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 2 
-https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 3 
-https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 4 
-https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="SPORT PREMIUM",Premier Sports 5 
-https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://hometv.pw/logo/sports/rmc_sports.jpg" group-title="SPORT PREMIUM",RMC Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://hometv.pw/deddy/smtr/lb/premium119/index.m3u8|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://hometv.pw/logo/sports/rmc_sports.jpg" group-title="SPORT PREMIUM",RMC Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://hometv.pw/deddy/smtr/lb/premium120/index.m3u8|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-logo="https://hometv.pw/logo/sports/rmc_sports.jpg" group-title="SPORT PREMIUM",RMC Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2547/index.m3u8
 
 #EXTINF:-1 tvg-id="inter" tvg-name="intr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99KMeBc_4YV4XsFM44jvcS01yJl5p1UQrLA&usqp=CAU" group-title="SPORT PREMIUM",INTER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -596,13 +576,6 @@ https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e
 #KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT PREMIUM",FS1
-http://37.49.230.48:8080/stadnik/6a627b52a9/756
-#EXTINF:0 tvg-id="" tvg-name="tudnas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94l7j-Qfz-loVa-C2JscnggfQ31Zpm64q_g&usqp=CAU" group-title="SPORT PREMIUM",TUDN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium66/index.m3u8?
-
 
 #EXTINF:0 tvg-id="" tvg-name="mutv" tvg-logo="https://vectrostudio.com/wp-content/uploads/2020/01/Manchester-United-Logo_vectrostudio.jpg" group-title="SPORT PREMIUM",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -610,8 +583,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="SPORT PREMIUM",STADIUM SPORT
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://i.imgur.com/R6FsKYj.png" group-title="SPORT PREMIUM",Sportskool TV
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="SPORT PREMIUM",RedBullTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -624,9 +595,6 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://thebusinessofesports.com/wp-content/uploads/2021/10/Logo_ESR.png" group-title="SPORT PREMIUM",ESR 24x7 eSports Network
 https://eyeonesports.com/ES2RA-628g.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSgA8t-SC3CfDgf9Fk0S8cNJ2JqPYZ345_A&usqp=CAU" group-title="SPORT PREMIUM",PTV SPORTS
-http://37.49.230.48:8080/stadnik/6a627b52a9/16633
 
 
 #EXTINF:0 tvg-id="newsneteu" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",News Net
@@ -1619,13 +1587,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
-#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png",VOO SPORT 1 HD.
-http://37.49.230.48:8080/stadnik/6a627b52a9/245
-#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png",VOO SPORT 2 HD.
-http://37.49.230.48:8080/stadnik/6a627b52a9/1964
-#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOO_logo.svg/1200px-VOO_logo.svg.png",VOO SPORT 3 HD
-http://37.49.230.48:8080/stadnik/6a627b52a9/95709
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d58b4ece7dc97fd49ec94abc6bb326cf:60d980942265304b30e5d6038d6d8793
@@ -1713,11 +1674,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
 
 #EXTINF:0 tvg-id="UnifiSports.my" tvg-logo="https://i.postimg.cc/Bn5B25Df/20220927-065221.png" group-title="SPORT PREMIUM",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:0 tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/KjvNxt5B/20230131-105427.png" group-title="SPORT PREMIUM",WWE Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2603/default_primary.mpd
 
 #EXTINF:0 tvg-id="WWENetwork.us" tvg-logo="https://i.postimg.cc/KjvNxt5B/20230131-105427.png" group-title="SPORT PREMIUM",WWE Network 2
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
