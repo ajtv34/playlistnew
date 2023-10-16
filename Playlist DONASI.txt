@@ -698,7 +698,8 @@ http://37.49.230.48:8080/stadnik/6a627b52a9/157579
 http://rr2.dens.tv/s/s07/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
 
 #EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="nasional",ANTV FHD
-http://37.49.230.48:8080/stadnik/6a627b52a9/165072
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+
 
 
 #EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="nasional",Trans 7
